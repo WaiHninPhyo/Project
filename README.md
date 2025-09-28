@@ -1,5 +1,5 @@
 # Project
-•	Wide World Importers Database Analysis - SQL-based insights into sales, purchasing, and inventory data
+•	WideWorldImporters Database Analysis - SQL-based insights into sales, purchasing, and inventory data
 
 •	AdventureWorks2022 Database Analysis - SQL-based insights into sales trends, growth analysis, and product performance
 
